@@ -1,0 +1,20 @@
+{
+	"communityName": "小区名字",
+	"city": "市",
+	"district": "县/区",
+	"address": "地址",
+	"numberOfHouseholds": "户数",
+	"population": "人口",
+	"langitude": "经度",
+	"latitude": "纬度",
+	"devices": "全部设备",
+	"covers": "智能井盖",
+	"parking": "停车场",
+	"guard": "智能门禁",
+	"charging": "充电桩",
+	"gymEquipment": "健身设施",
+	"deliveryLocker": "快递柜",
+	"streetLamp": "智慧路灯",
+	"carWash": "共享洗车",
+	"WOC": "公共厕所"
+}
